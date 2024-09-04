@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 
 ## Usage
-Ensure you have access to a GPU with at least 40GB of memory if you intend to process more than one video simultaneously.
+Ensure you have access to a GPU for running more these notebook.
 
 Open the `train.ipynb` notebook in the repository for training.
 
